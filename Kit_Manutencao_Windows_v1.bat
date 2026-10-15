@@ -17,11 +17,11 @@ if not "%errorlevel%"=="0" (
 :MENU
 cls
 echo ==========================================================
-echo          KIT DE MANUTENCAO DO WINDOWS - v2
+echo          KIT DE MANUTENCAO DO WINDOWS - v1
 echo ==========================================================
 echo.
 echo  LIMPEZA E MANUTENCAO
-echo  [1] Limpar temporarios do usuario e do Windows
+echo  [1] Limpar arquivos temporarios do usuario e do Windows
 echo  [2] Limpar downloads do Windows Update
 echo  [3] Otimizar unidades (Windows escolhe a operacao)
 echo  [4] Desativar hibernacao (libera espaco, desativa o recurso)
