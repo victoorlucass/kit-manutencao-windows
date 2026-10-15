@@ -4,7 +4,9 @@
 
 - O projeto reúne ferramentas nativas do sistema em um menu interativo, ajudando a automatizar tarefas comuns após uma formatação ou durante a manutenção periódica do computador.
 
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ✨ Funcionalidades
 
@@ -66,7 +68,9 @@
 
 - Uma opção reúne a limpeza dos arquivos temporários e a otimização das unidades, facilitando a manutenção inicial após a instalação do Windows.
 
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 🚀 Como utilizar
 
@@ -80,6 +84,7 @@
 
 - Leia as mensagens e confirmações antes de executar cada tarefa.
 
+
 Requisitos:
 
 - Windows 10 ou Windows 11.
@@ -90,7 +95,9 @@ Requisitos:
 
 - Windows Package Manager instalado para utilizar o instalador de programas.
 
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ⚠️ Avisos importantes
 
@@ -110,7 +117,9 @@ Requisitos:
 
 - Este projeto não desativa automaticamente serviços essenciais nem promete ganhos de desempenho que não possam ser verificados.
 
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 🧰 Tecnologias utilizadas
 
@@ -126,7 +135,9 @@ Requisitos:
 
 - Ferramentas nativas de manutenção do Windows
 
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 🗺️ Roadmap
 
@@ -150,7 +161,9 @@ Requisitos:
 
 - [ ]Criação opcional de ponto de restauração.
 
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 📌 Objetivo do projeto
 
